@@ -1,1 +1,1 @@
-# surfshack
+# template-center-slider
