@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.13.0",
-    "generatedAt": "2025-12-18T07:55:40.211Z",
+    "version": "1.14.0",
+    "generatedAt": "2025-12-18T08:56:21.078Z",
     "templateType": "full_banner_wipe",
     "propertyId": "58de7b51-f5ae-4dd6-aa13-f613ce4830e1",
     "homepageId": "a7930abb-906f-42d9-9629-068eb3462215"
@@ -2243,16 +2243,16 @@
             "id": "42cfc176-3f9b-427e-9f7a-612f88ed8bd9",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/a7930abb-906f-42d9-9629-068eb3462215/logo/1766027193700-q304a6zcn0g.png",
             "sortOrder": 0,
-            "description": "",
+            "description": "양양 서프쉑",
             "isSelected": true
           }
         ]
       }
     ],
     "seo": {
-      "title": "",
+      "title": "서프쉑",
       "description": "",
-      "keywords": ""
+      "keywords": "양양펜션, 양양서핑"
     },
     "socialLinks": {},
     "customFields": {
