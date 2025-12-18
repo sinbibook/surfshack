@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.4.0",
-    "generatedAt": "2025-12-18T01:36:59.832Z",
+    "version": "1.5.0",
+    "generatedAt": "2025-12-18T03:24:09.016Z",
     "templateType": "full_banner_wipe",
     "propertyId": "58de7b51-f5ae-4dd6-aa13-f613ce4830e1",
     "homepageId": "a7930abb-906f-42d9-9629-068eb3462215"
@@ -122,22 +122,33 @@
         "description": "금/토요일에만 즐길 수 있는 서프쉑만의 특별한 바베큐 파티! ",
         "usageGuide": "- 장소 : 서프쉑 1층 로비, 2층 테라스\n- 일자 : 금요일/토요일\n- 시간 : 19:00 ~ 21:00 (기간 추후 안내)\n- 인원 : 최소 8명 ~ 최대 30명\n- 이용금액 : 1인당 35,000원\n- 접수장소 : 서프쉑 프론트\n- 도미토리 이용고객 및 서핑 이용 고객 위주로 진행\n- 숯불 삼겹살 / 소주 무제한",
         "displayOrder": 1,
-        "images": []
-      },
-      {
-        "id": "01009c6b-2d1f-41e1-9d89-5500e2d423ed",
-        "name": "스파",
-        "description": "눈부신 바다를 바라보면서 스파를 즐겨보세요 !  ",
-        "usageGuide": "- 전 객실 오션뷰 스파 이용 가능 (도미토리 객실 제외)",
-        "displayOrder": 2,
-        "images": []
+        "images": [
+          {
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/b72ec373-44c1-4fc6-89ab-9a43dccef3e3/main/1766028208514-4cfv1haew2t.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/b72ec373-44c1-4fc6-89ab-9a43dccef3e3/main/1766028208514-watz1juls5.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/b72ec373-44c1-4fc6-89ab-9a43dccef3e3/main/1766028208514-6cb3rmczfwp.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          }
+        ]
       },
       {
         "id": "c8fab1bb-e72d-4fc5-8c18-f69e7946b80d",
         "name": "서프쉑 카페",
         "description": "맛있는 커피부터 간단한 베이커리까지 즐길 수 있는 카페 !  ",
         "usageGuide": "- 이용시간 : 08:30~22:00\n- 음식주문 : 08:30~21:00",
-        "displayOrder": 3,
+        "displayOrder": 2,
         "images": [
           {
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/c8fab1bb-e72d-4fc5-8c18-f69e7946b80d/main/1765857355674-aatptv7rhil.jpg",
@@ -170,12 +181,6 @@
             "isSelected": true
           },
           {
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/c8fab1bb-e72d-4fc5-8c18-f69e7946b80d/main/1765857355675-wbssaqs3lyj.jpg",
-            "sortOrder": 5,
-            "description": "",
-            "isSelected": true
-          },
-          {
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/c8fab1bb-e72d-4fc5-8c18-f69e7946b80d/main/1765857355675-49ihjt3t93l.jpg",
             "sortOrder": 4,
             "description": "",
@@ -192,6 +197,12 @@
             "sortOrder": 0,
             "description": "",
             "isSelected": true
+          },
+          {
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/c8fab1bb-e72d-4fc5-8c18-f69e7946b80d/main/1765857355675-wbssaqs3lyj.jpg",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true
           }
         ]
       },
@@ -200,7 +211,7 @@
         "name": "서핑체험",
         "description": "서프쉑에서 직접 운영하고 있는 서핑샵 !   ",
         "usageGuide": "- 서핑강습 가능 (일반강습 5만원)\n- 사전문의 필수",
-        "displayOrder": 4,
+        "displayOrder": 3,
         "images": [
           {
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/91ca29b2-4816-424a-b1b2-a50c20b7d5d9/main/1765857357317-tgxyk4rrpd.jpg",
@@ -229,12 +240,112 @@
         ]
       },
       {
+        "id": "01009c6b-2d1f-41e1-9d89-5500e2d423ed",
+        "name": " 편의시설",
+        "description": "휴식과 즐거움을 함께 누려보세요 ! ",
+        "usageGuide": "- 2층 공용 화장실 & 샤워장\n- 2층 공용 테라스\n- 당구장",
+        "displayOrder": 4,
+        "images": [
+          {
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01009c6b-2d1f-41e1-9d89-5500e2d423ed/main/1766028210311-26sunyfd6du.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01009c6b-2d1f-41e1-9d89-5500e2d423ed/main/1766028210311-bop5rkwnnrd.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01009c6b-2d1f-41e1-9d89-5500e2d423ed/main/1766028210311-hl7cqx8lxkd.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01009c6b-2d1f-41e1-9d89-5500e2d423ed/main/1766028210311-84v1xgadjeh.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01009c6b-2d1f-41e1-9d89-5500e2d423ed/main/1766028210311-g71wv99qyt7.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01009c6b-2d1f-41e1-9d89-5500e2d423ed/main/1766028210311-qghsnlhf0sn.jpg",
+            "sortOrder": 6,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01009c6b-2d1f-41e1-9d89-5500e2d423ed/main/1766028210311-ebsdzk07p5e.jpg",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true
+          }
+        ]
+      },
+      {
         "id": "83e46685-ba82-425f-aecd-c2fbe587b02a",
         "name": "애견동반가능",
         "description": "사랑하는 반려견과 함께하는 특별한 시간 !  ",
         "usageGuide": "- 애견추가비용 : 1마리 10,000원 (7kg 이하)\n- 제한마릿수 : 2마리까지 동반 입실 가능\n- 입실가능객실 : 301호~405호 (도미토리 객실 제외) \n- 사전문의 필수\n※ 사람 또는 반려견에게 심한 공격성을 보이는 반려견은 입실 불가합니다.",
         "displayOrder": 5,
-        "images": []
+        "images": [
+          {
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/83e46685-ba82-425f-aecd-c2fbe587b02a/main/1766022200864-7mgt5unmwwo.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/83e46685-ba82-425f-aecd-c2fbe587b02a/main/1766022200865-zsa1fgcpqf.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/83e46685-ba82-425f-aecd-c2fbe587b02a/main/1766022200865-p800cgbt58g.jpg",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/83e46685-ba82-425f-aecd-c2fbe587b02a/main/1766022200865-vsak6l2ve9.jpg",
+            "sortOrder": 7,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/83e46685-ba82-425f-aecd-c2fbe587b02a/main/1766028206939-hc78hv38ozm.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/83e46685-ba82-425f-aecd-c2fbe587b02a/main/1766028206939-17ngejy28f3.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/83e46685-ba82-425f-aecd-c2fbe587b02a/main/1766028206939-k50mw7ru9j.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/83e46685-ba82-425f-aecd-c2fbe587b02a/main/1766028206939-di6s45ohy7f.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          }
+        ]
       }
     ],
     "refundPolicies": [
@@ -2732,7 +2843,15 @@
     "templateType": "full_banner_wipe",
     "images": [
       {
-        "logo": []
+        "logo": [
+          {
+            "id": "42cfc176-3f9b-427e-9f7a-612f88ed8bd9",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/a7930abb-906f-42d9-9629-068eb3462215/logo/1766027193700-q304a6zcn0g.png",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          }
+        ]
       }
     ],
     "seo": {
@@ -2927,11 +3046,27 @@
                   "title": "",
                   "images": [
                     {
-                      "id": "4caffc55-72f3-4487-89c0-a1e742d3c4c3",
-                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/a7930abb-906f-42d9-9629-068eb3462215/main_about/1765865775949-koenmrighvh.jpg",
+                      "id": "8f5f3631-be78-4840-97d4-b6ed3ebaf975",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/a7930abb-906f-42d9-9629-068eb3462215/main_about/1766027278456-w16k8qvtjn.jpg",
                       "sortOrder": 2,
                       "description": "",
                       "isSelected": true,
+                      "blockId": "09f7730b-c614-4ded-b715-c66f2efe7c04"
+                    },
+                    {
+                      "id": "4caffc55-72f3-4487-89c0-a1e742d3c4c3",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/a7930abb-906f-42d9-9629-068eb3462215/main_about/1765865775949-koenmrighvh.jpg",
+                      "sortOrder": 3,
+                      "description": "",
+                      "isSelected": false,
+                      "blockId": "09f7730b-c614-4ded-b715-c66f2efe7c04"
+                    },
+                    {
+                      "id": "0bf39b70-c491-47d6-82e1-daf493d96db8",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/a7930abb-906f-42d9-9629-068eb3462215/main_about/1766027278456-nijy4y9tepo.jpg",
+                      "sortOrder": 4,
+                      "description": "",
+                      "isSelected": false,
                       "blockId": "09f7730b-c614-4ded-b715-c66f2efe7c04"
                     }
                   ],
