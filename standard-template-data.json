@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.19.0",
-    "generatedAt": "2025-12-26T01:41:04.844Z",
+    "version": "1.20.0",
+    "generatedAt": "2025-12-26T08:18:27.712Z",
     "templateType": "full_banner_wipe",
     "propertyId": "58de7b51-f5ae-4dd6-aa13-f613ce4830e1",
     "homepageId": "a7930abb-906f-42d9-9629-068eb3462215"
@@ -518,7 +518,7 @@
       "id": "1b6c73a4-cb8c-4b78-ba01-9b18d0252063",
       "name": "301호(애견동반가능)",
       "description": "원룸형 : 거실+주방+침대1(퀸)+화장실1",
-      "roomInfo": "",
+      "roomInfo": "[인원추가(1박기준/현장결제)]\n- 만 14세 이상~만 20세 미만 1인 10,000원\n- 만 20세 이상 1인 20,000원 \n- 만 13세 미만은 무료이나 인원수에 포함\n- 침구추가 : 10,000원",
       "group": null,
       "size": 1,
       "baseOccupancy": 2,
@@ -665,7 +665,7 @@
       "id": "b457bcfe-ab31-4cda-982a-a1ff2fb5b1f1",
       "name": "302호(애견동반가능)",
       "description": "원룸형 : 거실+주방+침대1(퀸)+화장실1",
-      "roomInfo": "",
+      "roomInfo": "[인원추가(1박기준/현장결제)]\n- 만 14세 이상~만 20세 미만 1인 10,000원\n- 만 20세 이상 1인 20,000원 \n- 만 13세 미만은 무료이나 인원수에 포함\n- 침구추가 : 10,000원",
       "group": null,
       "size": 1,
       "baseOccupancy": 2,
@@ -826,7 +826,7 @@
       "id": "4f58b5b0-6702-4cea-b0cc-4f1e8101a5e3",
       "name": "303호(애견동반가능)",
       "description": "원룸형 : 거실+주방+침대1(퀸)+화장실1",
-      "roomInfo": "",
+      "roomInfo": "[인원추가(1박기준/현장결제)]\n- 만 14세 이상~만 20세 미만 1인 10,000원\n- 만 20세 이상 1인 20,000원 \n- 만 13세 미만은 무료이나 인원수에 포함\n- 침구추가 : 10,000원",
       "group": null,
       "size": 1,
       "baseOccupancy": 2,
@@ -973,7 +973,7 @@
       "id": "fd64a148-fcce-45a1-a2aa-67aa4ce01e76",
       "name": "304호(애견동반가능)",
       "description": "원룸형 : 거실+주방+침대1(퀸)+화장실1",
-      "roomInfo": "",
+      "roomInfo": "[인원추가(1박기준/현장결제)]\n- 만 14세 이상~만 20세 미만 1인 10,000원\n- 만 20세 이상 1인 20,000원 \n- 만 13세 미만은 무료이나 인원수에 포함\n- 침구추가 : 10,000원",
       "group": null,
       "size": 1,
       "baseOccupancy": 2,
@@ -1120,7 +1120,7 @@
       "id": "682a6e73-6cec-4143-89e1-45f9386cf579",
       "name": "305호(애견동반가능)",
       "description": "원룸형 : 거실+주방+침대1(퀸)+화장실1",
-      "roomInfo": "",
+      "roomInfo": "[인원추가(1박기준/현장결제)]\n- 만 14세 이상~만 20세 미만 1인 10,000원\n- 만 20세 이상 1인 20,000원 \n- 만 13세 미만은 무료이나 인원수에 포함\n- 침구추가 : 10,000원",
       "group": null,
       "size": 1,
       "baseOccupancy": 2,
@@ -1267,7 +1267,7 @@
       "id": "63d662ee-474d-44e9-b5d0-3beb1b5e6084",
       "name": "401호(애견동반가능)",
       "description": "원룸형 : 거실+주방+침대1(퀸)+화장실1",
-      "roomInfo": "",
+      "roomInfo": "[인원추가(1박기준/현장결제)]\n- 만 14세 이상~만 20세 미만 1인 10,000원\n- 만 20세 이상 1인 20,000원 \n- 만 13세 미만은 무료이나 인원수에 포함\n- 침구추가 : 10,000원",
       "group": null,
       "size": 1,
       "baseOccupancy": 2,
@@ -1400,7 +1400,7 @@
       "id": "dd9b3edb-18bd-4411-8b93-1e6324cf17ca",
       "name": "402호(애견동반가능)",
       "description": "원룸형 : 거실+주방+침대1(퀸)+화장실1",
-      "roomInfo": "",
+      "roomInfo": "[인원추가(1박기준/현장결제)]\n- 만 14세 이상~만 20세 미만 1인 10,000원\n- 만 20세 이상 1인 20,000원 \n- 만 13세 미만은 무료이나 인원수에 포함\n- 침구추가 : 10,000원",
       "group": null,
       "size": 1,
       "baseOccupancy": 2,
@@ -1533,7 +1533,7 @@
       "id": "18106b85-ea5a-4a82-b43a-0724a63d3a0f",
       "name": "403호(애견동반가능)",
       "description": "원룸형 : 거실+주방+침대1(퀸)+화장실1",
-      "roomInfo": "",
+      "roomInfo": "[인원추가(1박기준/현장결제)]\n- 만 14세 이상~만 20세 미만 1인 10,000원\n- 만 20세 이상 1인 20,000원 \n- 만 13세 미만은 무료이나 인원수에 포함\n- 침구추가 : 10,000원",
       "group": null,
       "size": 1,
       "baseOccupancy": 2,
@@ -1673,7 +1673,7 @@
       "id": "aa14a4a2-3502-4bb5-9b16-13087f634c98",
       "name": "404호(애견동반가능)",
       "description": "원룸형 : 거실+주방+침대1(퀸)+화장실1",
-      "roomInfo": "",
+      "roomInfo": "[인원추가(1박기준/현장결제)]\n- 만 14세 이상~만 20세 미만 1인 10,000원\n- 만 20세 이상 1인 20,000원 \n- 만 13세 미만은 무료이나 인원수에 포함\n- 침구추가 : 10,000원",
       "group": null,
       "size": 1,
       "baseOccupancy": 2,
@@ -1820,7 +1820,7 @@
       "id": "fdb3a054-aa18-49f9-9eec-4abc585fbdb3",
       "name": "405호(애견동반가능)",
       "description": "원룸형 : 거실+주방+침대1(퀸)+화장실1",
-      "roomInfo": "",
+      "roomInfo": "[인원추가(1박기준/현장결제)]\n- 만 14세 이상~만 20세 미만 1인 10,000원\n- 만 20세 이상 1인 20,000원 \n- 만 13세 미만은 무료이나 인원수에 포함\n- 침구추가 : 10,000원",
       "group": null,
       "size": 1,
       "baseOccupancy": 2,
@@ -1981,7 +1981,7 @@
       "id": "1a883981-8394-4df5-9957-a597f639a507",
       "name": "도미토리 (남성)",
       "description": "원룸형 : 2층침대 3개",
-      "roomInfo": "",
+      "roomInfo": "6인 한팀으로 예약 가능합니다(사전문의)",
       "group": "도미토리(남성)",
       "size": 33,
       "baseOccupancy": 1,
@@ -2112,7 +2112,7 @@
       "id": "0507400d-be37-4a0f-9b52-d605a950442e",
       "name": "도미토리 (여성)",
       "description": "원룸형 : 2층침대 3개",
-      "roomInfo": "",
+      "roomInfo": "6인 한팀으로 예약 가능합니다(사전문의)",
       "group": null,
       "size": 33,
       "baseOccupancy": 1,
@@ -2670,7 +2670,7 @@
                   "images": []
                 },
                 "gallery": {
-                  "title": " ",
+                  "title": "  ",
                   "images": []
                 }
               }
@@ -2685,7 +2685,7 @@
                   "images": []
                 },
                 "gallery": {
-                  "title": " ",
+                  "title": "  ",
                   "images": []
                 }
               }
@@ -2700,7 +2700,7 @@
                   "images": []
                 },
                 "gallery": {
-                  "title": " ",
+                  "title": "  ",
                   "images": []
                 }
               }
@@ -2715,7 +2715,7 @@
                   "images": []
                 },
                 "gallery": {
-                  "title": " ",
+                  "title": "  ",
                   "images": []
                 }
               }
@@ -2730,7 +2730,7 @@
                   "images": []
                 },
                 "gallery": {
-                  "title": " ",
+                  "title": "  ",
                   "images": []
                 }
               }
@@ -2745,7 +2745,7 @@
                   "images": []
                 },
                 "gallery": {
-                  "title": " ",
+                  "title": "  ",
                   "images": []
                 }
               }
@@ -2760,7 +2760,7 @@
                   "images": []
                 },
                 "gallery": {
-                  "title": " ",
+                  "title": "  ",
                   "images": []
                 }
               }
@@ -2775,7 +2775,7 @@
                   "images": []
                 },
                 "gallery": {
-                  "title": " ",
+                  "title": "  ",
                   "images": []
                 }
               }
@@ -2790,7 +2790,7 @@
                   "images": []
                 },
                 "gallery": {
-                  "title": " ",
+                  "title": "  ",
                   "images": []
                 }
               }
@@ -2805,7 +2805,7 @@
                   "images": []
                 },
                 "gallery": {
-                  "title": " ",
+                  "title": "  ",
                   "images": []
                 }
               }
@@ -2820,7 +2820,7 @@
                   "images": []
                 },
                 "gallery": {
-                  "title": " ",
+                  "title": "  ",
                   "images": []
                 }
               }
@@ -2858,6 +2858,29 @@
             }
           ]
         }
+      },
+      "theme": {
+        "font": {
+          "koSub": {
+            "cdn": "https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.min.css",
+            "key": "pretendard",
+            "woff2": null,
+            "family": "Pretendard"
+          },
+          "enMain": {
+            "cdn": "https://fonts.cdnfonts.com/css/rughato-wacner",
+            "key": "rughatowacner",
+            "woff2": null,
+            "family": "UGHATO WACNER"
+          },
+          "koMain": {
+            "cdn": null,
+            "key": "imhyemin",
+            "woff2": "https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2106@1.1/IM_Hyemin-Regular.woff2",
+            "family": "ImHyeMin"
+          }
+        },
+        "color": null
       }
     }
   }
