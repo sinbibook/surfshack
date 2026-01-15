@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.21.0",
-    "generatedAt": "2026-01-05T03:17:45.576Z",
+    "version": "1.22.0",
+    "generatedAt": "2026-01-15T03:46:27.388Z",
     "templateType": "full_banner_wipe",
     "propertyId": "58de7b51-f5ae-4dd6-aa13-f613ce4830e1",
     "homepageId": "a7930abb-906f-42d9-9629-068eb3462215"
@@ -511,7 +511,7 @@
     "nameEn": "Yangyang Surf Shack",
     "domain": "surfshack.kr",
     "realtimeBookingId": "9995",
-    "ybsId": ""
+    "ybsId": "63144"
   },
   "rooms": [
     {
@@ -2884,7 +2884,61 @@
       },
       "popup": {
         "popups": []
-      }
-    }
+      },
+      "property": {
+        "images": []
+      },
+      "roomtypes": [
+        {
+          "id": "1b6c73a4-cb8c-4b78-ba01-9b18d0252063",
+          "images": []
+        },
+        {
+          "id": "b457bcfe-ab31-4cda-982a-a1ff2fb5b1f1",
+          "images": []
+        },
+        {
+          "id": "4f58b5b0-6702-4cea-b0cc-4f1e8101a5e3",
+          "images": []
+        },
+        {
+          "id": "fd64a148-fcce-45a1-a2aa-67aa4ce01e76",
+          "images": []
+        },
+        {
+          "id": "682a6e73-6cec-4143-89e1-45f9386cf579",
+          "images": []
+        },
+        {
+          "id": "63d662ee-474d-44e9-b5d0-3beb1b5e6084",
+          "images": []
+        },
+        {
+          "id": "dd9b3edb-18bd-4411-8b93-1e6324cf17ca",
+          "images": []
+        },
+        {
+          "id": "18106b85-ea5a-4a82-b43a-0724a63d3a0f",
+          "images": []
+        },
+        {
+          "id": "aa14a4a2-3502-4bb5-9b16-13087f634c98",
+          "images": []
+        },
+        {
+          "id": "fdb3a054-aa18-49f9-9eec-4abc585fbdb3",
+          "images": []
+        },
+        {
+          "id": "1a883981-8394-4df5-9957-a597f639a507",
+          "images": []
+        },
+        {
+          "id": "0507400d-be37-4a0f-9b52-d605a950442e",
+          "images": []
+        }
+      ]
+    },
+    "id": "a7930abb-906f-42d9-9629-068eb3462215"
   }
 }
