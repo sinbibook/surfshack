@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.31.0",
-    "generatedAt": "2026-05-18T05:00:28.009149017Z",
+    "version": "1.32.0",
+    "generatedAt": "2026-06-04T06:13:12.586692312Z",
     "templateType": "full_banner_wipe",
     "propertyId": "58de7b51-f5ae-4dd6-aa13-f613ce4830e1",
     "homepageId": "a7930abb-906f-42d9-9629-068eb3462215"
@@ -2884,8 +2884,18 @@
                     "blockId": null
                   }
                 ],
-                "description": " ",
-                "videos": [ ]
+                "videos": [
+                  {
+                    "id": "1a16eeb6-9940-4242-810e-406058d64af0",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-videos/homepage/a7930abb-906f-42d9-9629-068eb3462215/index_hero/1780553580142-5ukj6nvavt.mp4",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
+                "mediaType": "video",
+                "description": " "
               },
               "closing": {
                 "title": " ",
@@ -2907,8 +2917,8 @@
                     "blockId": null
                   }
                 ],
-                "description": " ",
-                "videos": [ ]
+                "videos": [ ],
+                "description": " "
               },
               "essence": {
                 "title": "Surf Shack",
@@ -2938,8 +2948,8 @@
                     "blockId": null
                   }
                 ],
-                "description": "양양 동호해변 바로 앞, 서핑 스테이",
-                "videos": [ ]
+                "videos": [ ],
+                "description": "양양 동호해변 바로 앞, 서핑 스테이"
               },
               "gallery": {
                 "title": "Surf Shack",
@@ -3041,14 +3051,14 @@
                     "blockId": null
                   }
                 ],
-                "description": "PHOTO GALLERY",
-                "videos": [ ]
+                "videos": [ ],
+                "description": "PHOTO GALLERY"
               },
               "signature": {
                 "title": "",
                 "images": [ ],
-                "description": "",
-                "videos": [ ]
+                "videos": [ ],
+                "description": ""
               }
             }
           ]
