@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.36.0",
-    "generatedAt": "2026-06-04T07:46:10.026713830Z",
+    "version": "1.37.0",
+    "generatedAt": "2026-06-04T07:46:38.668850367Z",
     "templateType": "full_banner_wipe",
     "propertyId": "58de7b51-f5ae-4dd6-aa13-f613ce4830e1",
     "homepageId": "a7930abb-906f-42d9-9629-068eb3462215"
@@ -9,6 +9,7 @@
   "property": {
     "id": "58de7b51-f5ae-4dd6-aa13-f613ce4830e1",
     "name": "양양 서프쉑",
+    "nameEn": "Yangyang Surf Shack",
     "description": "",
     "subtitle": "바다와 가장 가까운 자리, 파도와 감성이 머무는 양양 서프쉑입니다.",
     "address": "강원특별자치도 양양군 손양면 선사유적로 316-74",
@@ -23,6 +24,9 @@
     "reservationGuide": "미성년자는 보호자 없이 예약 및 입실 불가하며, 위반 시 환불 없이 퇴실됩니다.\n객실 요금은 기준 인원 기준이며, 초과 시 추가 요금이 발생합니다.\n최대 인원 초과 시 입실 불가하며, 이로 인한 환불은 불가입니다. (유아, 어린이 포함)\n현장 추가 요금은 숙소 측에 사전 확인 바랍니다.\n수영장 등 부대시설은 날씨나 상황에 따라 이용이 제한될 수 있으니 사전 확인 바랍니다.\n당일 예약 후 취소 시 환불 불가하며, 늦은 시간 당일 예약 후 즉시 방문 시 입실 불가할 수 있으니 숙소 확인 후 예약해 주세요.\n취소 수수료는 구매처마다 다를 수 있습니다.\n시스템 오류로 인해 정상가와 다른 금액으로 예약이 진행된 경우, 부득이하게 예약이 취소될 수 있습니다.\n전 객실 금연이며, 흡연은 지정된 장소에서만 가능합니다.",
     "province": "강원특별자치도",
     "city": "양양군",
+    "domain": "surfshack.kr",
+    "realtimeBookingId": "https://map.naver.com/p/entry/place/1269691024",
+    "ybsId": "63144",
     "amenities": [ ],
     "nearbyAttractions": [
       "해변",
@@ -601,11 +605,7 @@
         "surrounding": [ ],
         "commonArea": [ ]
       }
-    ],
-    "nameEn": "Yangyang Surf Shack",
-    "domain": "surfshack.kr",
-    "realtimeBookingId": "https://map.naver.com/p/entry/place/1269691024",
-    "ybsId": "63144"
+    ]
   },
   "rooms": [
     {
@@ -2672,6 +2672,7 @@
     }
   ],
   "homepage": {
+    "id": "a7930abb-906f-42d9-9629-068eb3462215",
     "domain": "surfshack.kr",
     "templateType": "full_banner_wipe",
     "images": [
@@ -3176,15 +3177,24 @@
             }
           ]
         },
-        "layoutMap": {
+        "nearbyAttractions": {
           "sections": [ ]
         },
-        "nearbyAttractions": {
+        "layoutMap": {
           "sections": [ ]
         }
       },
+      "popup": {
+        "popups": [ ]
+      },
       "theme": {
         "font": {
+          "koMain": {
+            "cdn": null,
+            "key": "imhyemin",
+            "woff2": "https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2106@1.1/IM_Hyemin-Regular.woff2",
+            "family": "ImHyeMin"
+          },
           "koSub": {
             "cdn": "https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.min.css",
             "key": "pretendard",
@@ -3196,20 +3206,12 @@
             "key": "rughatowacner",
             "woff2": null,
             "family": "UGHATO WACNER"
-          },
-          "koMain": {
-            "cdn": null,
-            "key": "imhyemin",
-            "woff2": "https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2106@1.1/IM_Hyemin-Regular.woff2",
-            "family": "ImHyeMin"
           }
         },
         "color": null
       },
-      "popup": {
-        "popups": [ ]
-      },
       "property": {
+        "name": "양양 서프쉑",
         "images": [
           {
             "id": "45d02924-376c-4f95-9165-68b83220c826",
@@ -3329,7 +3331,6 @@
             "category": "property_exterior"
           }
         ],
-        "name": "양양 서프쉑",
         "nameEn": "Yangyang Surf Shack"
       },
       "roomtypes": [
@@ -5131,7 +5132,6 @@
           ]
         }
       ]
-    },
-    "id": "a7930abb-906f-42d9-9629-068eb3462215"
+    }
   }
 }
