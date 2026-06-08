@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.37.0",
-    "generatedAt": "2026-06-04T07:46:38.668850367Z",
+    "version": "1.38.0",
+    "generatedAt": "2026-06-08T01:14:11.387792987Z",
     "templateType": "full_banner_wipe",
     "propertyId": "58de7b51-f5ae-4dd6-aa13-f613ce4830e1",
     "homepageId": "a7930abb-906f-42d9-9629-068eb3462215"
@@ -3202,10 +3202,10 @@
             "family": "Pretendard"
           },
           "enMain": {
-            "cdn": "https://fonts.cdnfonts.com/css/rughato-wacner",
-            "key": "rughatowacner",
+            "cdn": "https://fonts.googleapis.com/css2?family=Cormorant:ital,wght@0,300..700;1,300..700&display=swap",
+            "key": "cormorant",
             "woff2": null,
-            "family": "UGHATO WACNER"
+            "family": "Cormorant"
           }
         },
         "color": null
