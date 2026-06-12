@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.38.0",
-    "generatedAt": "2026-06-08T01:14:11.387792987Z",
+    "version": "1.39.0",
+    "generatedAt": "2026-06-12T09:20:04.801979214Z",
     "templateType": "full_banner_wipe",
     "propertyId": "58de7b51-f5ae-4dd6-aa13-f613ce4830e1",
     "homepageId": "a7930abb-906f-42d9-9629-068eb3462215"
@@ -490,7 +490,9 @@
     "refundSettings": {
       "customerRefundNotice": "",
       "immediateRefundEnabled": false,
-      "immediateRefundTimeLimit": "60"
+      "immediateRefundTimeLimit": "60",
+      "immediateRefundMinuteLimit": "60",
+      "sameDayReservationHourLimit": null
     },
     "images": [
       {
@@ -3185,7 +3187,29 @@
         }
       },
       "popup": {
-        "popups": [ ]
+        "popups": [
+          {
+            "id": "61eb9976-61a9-4baa-9929-da96419bf3a5",
+            "link": "",
+            "title": "",
+            "images": [
+              {
+                "id": "47ca16de-53d4-477a-ba88-aed79b3b28c9",
+                "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/a7930abb-906f-42d9-9629-068eb3462215/popup/1781256001583-fjfv6q0d44.jpg",
+                "sortOrder": 0,
+                "description": "",
+                "isSelected": true,
+                "blockId": "61eb9976-61a9-4baa-9929-da96419bf3a5"
+              }
+            ],
+            "slider": false,
+            "enabled": true,
+            "endDate": "2026-07-31",
+            "sortOrder": 0,
+            "startDate": "2026-06-12",
+            "description": ""
+          }
+        ]
       },
       "theme": {
         "font": {
